@@ -4,7 +4,7 @@ Welcome to my resume repository! This project showcases my professional backgrou
 
 ## 🌐 Live Demo
 To make it easier for recruiters and collaborators to view my resume, I have hosted it online:
-👉 **[View My Live Resume Here](https://AmirProm.github.io/RESUME/)**
+👉 **[View My Live Resume Here](https://AmirProm.github.io/RESUME/index.html)**
 
 ---
 
